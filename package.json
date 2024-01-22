@@ -1,6 +1,6 @@
 {
   "name": "typebox-message-intl",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "typebox error messages i18n support",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
